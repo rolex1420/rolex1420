@@ -1,4 +1,3 @@
- #I'm Surajit Duaru
 👋 Hi, I'm Surajit Duary<br>💻 Software Engineer <br>☕ Java Developer | DSA Enthusiast<br>🛠️ Core Java | OOPs | Collections | Git & GitHub<br>🚀 Eager to learn, build, and grow as a professional developer
 
 
